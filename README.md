@@ -25,31 +25,35 @@
 
   Chỉ có một màn hình, gồm các số và toán tử.
   
-  http://i.imgur.com/BZRGlCV.png
+   <img src ="http://i.imgur.com/9QRigmG.png">
   
   Muốn thực hiện phép toán, bạn chỉ cần nhấn vào số và toán tử bạn muốn: vd: 2 * 3
   
   Sau đó nhấn phím '=' sẽ hiện ra kết quả ở dòng dưới.
   
-  http://i.imgur.com/Nobopu2.png
+  <img src ="http://i.imgur.com/8WoTWp3.png">
   
   Ứng dụng còn có thể tính được biểu thức phức tạp hơn:
   
-  http://i.imgur.com/dtoY8PS.png
+  <img src ="http://i.imgur.com/6INADtd.png">
   
   Các hình ảnh thêm về ứng dụng:
   
-  http://i.imgur.com/sWv8amg.png
+  <img src ="http://i.imgur.com/xdnhw6f.png">
   
-  http://i.imgur.com/xRQcJCs.png
+  <img src ="http://i.imgur.com/PvQMRFX.png">
   
-  http://i.imgur.com/CQtDTch.png
+  <img src ="http://i.imgur.com/jcw7SSF.png">
   
-  http://i.imgur.com/UsmecmL.png
+  <img src ="http://i.imgur.com/CoOkfB6.png">
+  
+  <img src ="http://i.imgur.com/F4OfXEy.png">
+  
+  <img src ="http://i.imgur.com/Ssrxo8D.png">
   
   Khi nhập biểu thức sai thì màn hình sẽ hiện thông báo 'Math Error!', bạn phải nhập lại biểu thức.
   
-  http://i.imgur.com/y0nQWve.png
+  <img src ="http://i.imgur.com/b8EeMb3.png">
   
   Biểu thức bạn nhập vào tối đa là 48 kí tự gồm số và toán tử.
   
